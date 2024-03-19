@@ -5,7 +5,6 @@ import HeadingDetails from "../components/HeadingDetails";
 import { Image, ScrollView, StyleSheet, Text, View } from "react-native";
 
 export default function HomePage() {
-
     return (
         <View>
             <ScrollView style={{ padding: 15, backgroundColor: 'white', marginBottom: 70 }}>
